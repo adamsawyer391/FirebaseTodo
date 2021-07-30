@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+.form-area{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input-area{
+  padding-left: 30%;
+  padding-right: 30%;
+}
+.input-button{
+  width: 200px;
+}
+.input-button:hover{
+  cursor: pointer;
+}
+.input-field{
+  width: 300px;
+  margin-bottom: 20px;
+}
+.list-card{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 20px;
+}
+.card-area{
+  /* background-color: green; */
+  /* color: white; */
+  font-size: 20px;
+  padding: 10px;
+  border: 1.5px solid black;
+  border-radius: 5px;
+}
+.main-area{
+  margin-top: 50px;
+}
+.slide-in{
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 20px;
+}
+.card-area:hover{
+  cursor: pointer;
+}
+
